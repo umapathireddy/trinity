@@ -1,7 +1,7 @@
 {
   "AWSEBDockerrunVersion": "1",
   "Image": {
-    "Name": "tutum/hello-world:latest",
+    "Name": "djrut/trinity:v1.2-3-gcea7cc3",
     "Update": "true"
   },
   "Ports": [
