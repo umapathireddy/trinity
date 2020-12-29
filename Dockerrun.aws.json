@@ -1,7 +1,7 @@
 {
   "AWSEBDockerrunVersion": "1",
   "Image": {
-    "Name": "karthequian/helloworld:latest",
+    "Name": "djrut/suggest-ui:latest",
     "Update": "true"
   },
   "Ports": [
